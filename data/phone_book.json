@@ -92,15 +92,19 @@
               , "TG"
               , "GGE"
               , "HG7" ]
-  }, {
-    "name":   "GZR",
-    "phones": [ {"name":"GRR Light","file":"GRR"}
-              , "F0"
-              , "HR"
-              , "HRH"
-              , {"name":"HTH Performance","file":"HTH"}
-              , "Z"
-              , "HTH67"
-              , "HT5" ]
+  },
+  {
+    "name":   "Ultimate Ears",
+    "phones": [
+      {
+        "name":"UE900",
+        "file":[
+          "UE900 CP100"
+        ],
+        "suffix": [
+            "Spinfit CP100"
+        ]
+      }
+    ]
   }
 ]
