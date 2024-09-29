@@ -1,5 +1,5 @@
 // Configuration options
-const init_phones = ["BKF"],            // Optional. Which graphs to display on initial load. Note: Share URLs will override this set
+const init_phones = [""],            // Optional. Which graphs to display on initial load. Note: Share URLs will override this set
       DIR = "data/",                                // Directory where graph files are stored
       default_channels = ["L","R"],                 // Which channels to display. Avoid javascript errors if loading just one channel per phone
       default_normalization = "dB",                 // Sets default graph normalization mode. Accepts "dB" or "Hz"
@@ -15,9 +15,9 @@ const init_phones = ["BKF"],            // Optional. Which graphs to display on 
       alt_augment = false,                          // Display augment card in phone list, e.g. review sore, shop link
       site_url = 'graph.html',                      // URL of your graph "homepage"
       share_url = true,                             // If true, enables shareable URLs
-      watermark_text = "CrinGraph",                 // Optional. Watermark appears behind graphs
-      watermark_image_url = "cringraph-logo.svg",   // Optional. If image file is in same directory as config, can be just the filename
-      page_title = "CrinGraph",                     // Optional. Appended to the page title if share URLs are enabled
+      // watermark_text = "CrinGraph",                 // Optional. Watermark appears behind graphs
+      // watermark_image_url = "cringraph-logo.svg",   // Optional. If image file is in same directory as config, can be just the filename
+      page_title = "desutruction's graph tool",                     // Optional. Appended to the page title if share URLs are enabled
       page_description = "View and compare frequency response graphs for earphones",
       accessories = false,                          // If true, displays specified HTML at the bottom of the page. Configure further below
       externalLinksBar = true,                      // If true, displays row of pill-shaped links at the bottom of the page. Configure further below
