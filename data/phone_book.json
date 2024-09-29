@@ -86,6 +86,34 @@
               , "QHC" ]
   },
   {
+    "name":   "Massdrop",
+    "phones": [
+      {
+        "name":"Plus",
+        "file":[
+          "Massdrop Plus CP100"
+        ],
+        "suffix": [
+            "Spinfit CP100"
+        ]
+      }
+    ]
+  },
+  {
+    "name":   "MEE audio",
+    "phones": [
+      {
+        "name":"Pinnacle P2",
+        "file":[
+          "Mee Pinnacle P2 CP100"
+        ],
+        "suffix": [
+            "Spinfit CP100"
+        ]
+      }
+    ]
+  },  
+  {
     "name":   "JVC",
     "phones": [
       {
