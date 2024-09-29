@@ -84,15 +84,30 @@
               , "T"
               , {"name":"TE66 Deluxe","file":"TE66"}
               , "QHC" ]
-  }, {
-    "name":   "GG",
-    "suffix": "Hi-fi",
-    "phones": [ "T92"
-              , {"name":"H0 Pro","file":"H0"}
-              , "TG"
-              , "GGE"
-              , "HG7" ]
   },
+  {
+    "name":   "JVC",
+    "phones": [
+      {
+        "name":"Drop HA-FDX1",
+        "file":[
+          "JVC HA-FDX1 50% CP100"
+        ],
+        "suffix": [
+            "50% Nozzle Spinfit CP100"
+        ]
+      },
+      {
+        "name":"HA-FXZ200",
+        "file":[
+          "JVC HA-FXZ200 CP100"
+        ],
+        "suffix": [
+            "Spinfit CP100"
+        ]
+      },
+    ]
+  }
   {
     "name":   "Ultimate Ears",
     "phones": [
