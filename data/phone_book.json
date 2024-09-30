@@ -133,9 +133,11 @@
       {
         "name":"HA-FX700",
         "file":[
+          "JVC HA-FX700 CP100 8K",
           "JVC HA-FX700 CP100"
         ],
         "suffix": [
+            "Coupler 8K Spinfit CP100",
             "Spinfit CP100"
         ]
       }
