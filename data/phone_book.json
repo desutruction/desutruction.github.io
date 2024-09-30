@@ -1,50 +1,5 @@
 [
   {
-    "name": "Demo",
-    "phones": [
-        {"name":["Variations"],
-         "file":["Combo Variant 1",
-                 "Combo Variant 2",
-                 "Combo Variant 3",
-                 "Combo Variant 4"],
-         "suffix":["var1",
-                   "var2",
-                   "var3",
-                   "var4"],
-         "reviewScore":"4",
-         "reviewLink":"https://www.youtube.com/",
-         "shopLink":"https://www.amazon.com/",
-         "price":"¥100"
-        },
-        {"name":["Variations 2"],
-         "file":["Combo Variant 1",
-                 "Combo Variant 2",
-                 "Combo Variant 3",
-                 "Combo Variant 4"],
-         "suffix":["var1",
-                   "var2",
-                   "var3",
-                   "var4"],
-         "reviewScore":"A+",
-         "reviewLink":"https://www.head-fi.org/forums/",
-         "shopLink":"https://www.aliexpress.com/",
-         "price":"$100"
-        }
-    ]
-  },
-  {
-    "name":   "QBK",
-    "phones": [ "FQQ"
-              , "Q53"
-              , "KT"
-              , "B27"
-              , "BKF"
-              , "H2"
-              , "HH"
-              , "E05"
-              , "QK9" ]
-  },
-  {
     "name":   "Sony",
     "phones": [
       {
@@ -55,7 +10,43 @@
         "suffix": [
             "EP-EX11"
         ]
-      }
+      },
+      {
+        "name":"XBA-100",
+        "file":[
+          "Sony XBA-100 EX11"
+        ],
+        "suffix": [
+            "EP-EX11"
+        ]
+      },
+      {
+        "name":"XBA-C10",
+        "file":[
+          "Sony XBA-C10 EX11"
+        ],
+        "suffix": [
+            "EP-EX11"
+        ]
+      },
+      {
+        "name":"XBA-C10",
+        "file":[
+          "Sony XBA-C10 EX11"
+        ],
+        "suffix": [
+            "EP-EX11"
+        ]
+      },
+      {
+        "name":"XBA-300",
+        "file":[
+          "Sony XBA-300 EX11"
+        ],
+        "suffix": [
+            "EP-EX11"
+        ]
+      },
     ]
   },
   {
