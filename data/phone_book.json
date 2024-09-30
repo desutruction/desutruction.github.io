@@ -59,31 +59,20 @@
     "suffix": "(Not an acronym)",
     "phones": [ "B9"
               , "BE0" ]
-  }, {
-    "name":   "KQQ",
-    "phones": [ "QE"
-              , "K"
-              , "H"
-              , "QH19"
-              , {"name":"T4 Reference","file":"T4"} ]
-  }, {
-    "name":   "KRKG",
-    "suffix": "Ears",
-    "phones": [ "E5"
-              , "KK16"
-              , {"name":"RG Pro Edition","file":"RG"}
-              , "T0"
-              , "KH"
-              , "K5" ]
-  }, {
-    "name":   "CQ",
-    "phones": [ "TC4"
-              , "Q2"
-              , {"name":"CE Reference","file":"CE"}
-              , {"name":"E04 Enhanced Bass","file":"E04"}
-              , "T"
-              , {"name":"TE66 Deluxe","file":"TE66"}
-              , "QHC" ]
+  },
+  {
+    "name":   "7hz",
+    "phones": [
+      {
+        "name":"Timeless",
+        "file":[
+          "7hz Timeless CP100"
+        ],
+        "suffix": [
+            "Spinfit CP100"
+        ]
+      }
+    ]
   },
   {
     "name":   "Massdrop",
