@@ -43,22 +43,20 @@
               , "HH"
               , "E05"
               , "QK9" ]
-  }, {
-    "name":   "ZKZ",
-    "suffix": "Sound",
-    "phones": [ "H4"
-              , "HHH"
-              , "KTK"
-              , {"name":"E10 Universal","file":"E10"}
-              , "EFZ9"
-              , {"name":"THT02 Extreme","file":"THT02"}
-              , "ZK"
-              , "E40" ]
-  }, {
-    "name":   "RBG",
-    "suffix": "(Not an acronym)",
-    "phones": [ "B9"
-              , "BE0" ]
+  },
+  {
+    "name":   "Sony",
+    "phones": [
+      {
+        "name":"MH755",
+        "file":[
+          "Sony MH755 EX11"
+        ],
+        "suffix": [
+            "EP-EX11"
+        ]
+      }
+    ]
   },
   {
     "name":   "7hz",
@@ -118,6 +116,24 @@
         "name":"HA-FXZ200",
         "file":[
           "JVC HA-FXZ200 CP100"
+        ],
+        "suffix": [
+            "Spinfit CP100"
+        ]
+      },
+      {
+        "name":"HA-FXT200LTD",
+        "file":[
+          "JVC HA-FXT200LTD CP100"
+        ],
+        "suffix": [
+            "Spinfit CP100"
+        ]
+      },
+      {
+        "name":"HA-FX700",
+        "file":[
+          "JVC HA-FX700 CP100"
         ],
         "suffix": [
             "Spinfit CP100"
