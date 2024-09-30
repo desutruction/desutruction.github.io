@@ -12,27 +12,36 @@
         ]
       },
       {
+        "name":"MDR-EX500SL",
+        "file":[
+          "Sony MDR-EX500SL EX11"
+        ],
+        "suffix": [
+            "EP-EX11"
+        ]
+      },
+      {
+        "name":"XBA-C10",
+        "file":[
+          "Sony XBA-C10 EX11"
+        ],
+        "suffix": [
+            "EP-EX11"
+        ]
+      },
+      {
+        "name":"XBA-10",
+        "file":[
+          "Sony XBA-10 EX11"
+        ],
+        "suffix": [
+            "EP-EX11"
+        ]
+      },
+      {
         "name":"XBA-100",
         "file":[
           "Sony XBA-100 EX11"
-        ],
-        "suffix": [
-            "EP-EX11"
-        ]
-      },
-      {
-        "name":"XBA-C10",
-        "file":[
-          "Sony XBA-C10 EX11"
-        ],
-        "suffix": [
-            "EP-EX11"
-        ]
-      },
-      {
-        "name":"XBA-C10",
-        "file":[
-          "Sony XBA-C10 EX11"
         ],
         "suffix": [
             "EP-EX11"
