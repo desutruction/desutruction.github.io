@@ -144,6 +144,22 @@
     ]
   },
   {
+    "name":   "TANGZU",
+    "phones": [
+      {
+        "name":"YuXuanJi USB-C",
+        "file":[
+          "TANGZU YuXuanJi USBC W",
+          "TANGZU YuXuanJi USBC Bal"
+        ],
+        "suffix": [
+            "WIDE tips",
+            "BALANCE tips"
+        ]
+      }
+    ]
+  },
+  {
     "name":   "Oriolus",
     "phones": [
       {
