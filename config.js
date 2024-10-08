@@ -1,5 +1,5 @@
 // Configuration options
-const init_phones = [""],            // Optional. Which graphs to display on initial load. Note: Share URLs will override this set
+const init_phones = ["TANGZU YuXuanJi USBC W","Crinacle Target"],            // Optional. Which graphs to display on initial load. Note: Share URLs will override this set
       DIR = "data/",                                // Directory where graph files are stored
       default_channels = ["L","R"],                 // Which channels to display. Avoid javascript errors if loading just one channel per phone
       default_normalization = "dB",                 // Sets default graph normalization mode. Accepts "dB" or "Hz"
@@ -15,7 +15,7 @@ const init_phones = [""],            // Optional. Which graphs to display on ini
       alt_augment = false,                          // Display augment card in phone list, e.g. review sore, shop link
       site_url = 'graph.html',                      // URL of your graph "homepage"
       share_url = true,                             // If true, enables shareable URLs
-      watermark_text = "",                 // Optional. Watermark appears behind graphs
+      watermark_text = "desutruction",                 // Optional. Watermark appears behind graphs
       watermark_image_url = "",   // Optional. If image file is in same directory as config, can be just the filename
       page_title = "desutruction's graph tool",                     // Optional. Appended to the page title if share URLs are enabled
       page_description = "View and compare frequency response graphs for earphones",
@@ -26,7 +26,7 @@ const init_phones = [""],            // Optional. Which graphs to display on ini
       expandableOnly = false,                       // Prevents iframe interactions unless the user has expanded it. Accepts "true" or "false" OR a pixel value; if pixel value, that is used as the maximum width at which expandableOnly is used
       headerHeight = '0px',                         // Optional. If expandable=true, determines how much space to leave for the parent page header
       darkModeButton = true,                        // Adds a "Dark Mode" button the main toolbar to let users set preference
-      targetDashed = false,                         // If true, makes target curves dashed lines
+      targetDashed = true,                         // If true, makes target curves dashed lines
       targetColorCustom = false,                    // If false, targets appear as a random gray value. Can replace with a fixed color value to make all targets the specified color, e.g. "black"
       targetRestoreLastUsed = false,				// Restore user's last-used target settings on load
       labelsPosition = "default",                   // Up to four labels will be grouped in a specified corner. Accepts "top-left," bottom-left," "bottom-right," and "default"
